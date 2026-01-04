@@ -1,0 +1,21 @@
+# Java build artifacts
+bin/
+out/
+*.class
+
+# IDE / editor files
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+
+# Generated / large datasets
+large test cases/
+results*.txt
+
+#submit file
+.submit

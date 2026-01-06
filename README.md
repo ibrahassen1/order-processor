@@ -14,7 +14,7 @@ The system supports both single-threaded and multi-threaded execution to compare
 - Thread-safe aggregation of shared sales data
 - Sorted item-level breakdowns with totals
 - Execution time measurement for performance comparison
-- Scales to very large datasets using generated inputs
+- Scales to very large datasets using generated input
 
 ## Project Structure
 - `src/` — core order processing and threading logic  

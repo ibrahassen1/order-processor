@@ -30,4 +30,4 @@ Compile and run `OrdersProcessor.java`, then follow the command-line prompts to:
 4. Provide an output results file
 
 ## Testing
-Correctness was validated using custom test cases and instructor-provided public tests to verify parsing, aggregation, sorting, and output formatting under both execution modes.
+Correctness was validated using custom test cases to verify parsing, aggregation, sorting, and output formatting under both execution modes.
